@@ -1,4 +1,4 @@
-🤖 RAG Chatbot using GROQ & LangChain
+#🤖 RAG Chatbot using GROQ & LangChain
 
 ## 📌 Project Overview
 
